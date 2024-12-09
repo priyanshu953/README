@@ -1,0 +1,17 @@
+.card {
+    border: 4px salmon;
+    padding: 20px;
+    font-size: medium;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
